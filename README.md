@@ -106,7 +106,7 @@ f: 1/0.0004 s  =  2500 (Hz)
 
 ## 4. VIDEO:
 
-
+https://youtu.be/nZDAC_DVA2E
 
 ## 5. CONCLUSIONES:
 
